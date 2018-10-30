@@ -1,0 +1,25 @@
+html {
+  font-family: 'Overpass', sans-serif;
+  background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
+  color: #fff;
+}
+
+.btn {
+  border-color: #fff;
+  color: #fff;
+}
+
+.btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+  color: #ff9500;
+}
+
+.border-btm {
+  border-color: #ff9500;
+  border-style: solid;
+  border-width: 3px;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+}
