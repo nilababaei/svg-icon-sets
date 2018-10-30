@@ -23,3 +23,15 @@ html {
   border-left: 0;
   border-right: 0;
 }
+
+i {
+  color: rgba(255, 255, 255, 1);
+}
+
+@media only screen and (min-width: 60em) {
+
+  .border-btm {
+    border-bottom: 0;
+  }
+
+}
