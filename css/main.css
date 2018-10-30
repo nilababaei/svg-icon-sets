@@ -1,5 +1,5 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: Overpass, sans-serif;
   background-image: linear-gradient(to bottom, #ff9500, #ff5e3a);
   color: #fff;
 }
@@ -28,6 +28,10 @@ i {
   color: rgba(255, 255, 255, 1);
 }
 
+a {
+  text-decoration: none;
+  color: #fff;
+}
 @media only screen and (min-width: 60em) {
 
   .border-btm {
